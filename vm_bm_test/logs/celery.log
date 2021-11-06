@@ -1,0 +1,86 @@
+2021-11-05 13:25:47,582 INFO ab0e578ecff24645bd661f92dc9c120a Data Started Processing for BMI
+2021-11-05 14:04:52,019 INFO ca014e60ca2b4c99a336678a8114f678 Data Started Processing for BMI
+2021-11-05 14:20:01,940 INFO 9fa5438f526a429cbd562bc2c87c9dc2 Data Started Processing for BMI
+2021-11-05 14:24:57,394 INFO 6e0bcd33966b4c6ea6c817eab9260d74 Data Started Processing for BMI
+2021-11-05 14:25:08,949 ERROR 6e0bcd33966b4c6ea6c817eab9260d74 local variable 'bmi_date' referenced before assignment
+2021-11-05 14:25:08,950 ERROR 6e0bcd33966b4c6ea6c817eab9260d74 local variable 'bmi_date' referenced before assignment
+2021-11-05 14:25:08,951 ERROR 6e0bcd33966b4c6ea6c817eab9260d74 local variable 'bmi_date' referenced before assignment
+2021-11-05 14:25:08,952 ERROR 6e0bcd33966b4c6ea6c817eab9260d74 local variable 'bmi_date' referenced before assignment
+2021-11-05 14:25:08,953 ERROR 6e0bcd33966b4c6ea6c817eab9260d74 local variable 'bmi_date' referenced before assignment
+2021-11-05 14:25:08,955 ERROR 6e0bcd33966b4c6ea6c817eab9260d74 local variable 'bmi_date' referenced before assignment
+2021-11-05 14:31:13,203 INFO b2b47bc52460448cbe3457ef624bb72f Data Started Processing for BMI
+2021-11-05 14:31:13,811 ERROR b2b47bc52460448cbe3457ef624bb72f name 'unique_id' is not defined
+2021-11-05 14:31:13,812 ERROR b2b47bc52460448cbe3457ef624bb72f name 'unique_id' is not defined
+2021-11-05 14:31:13,813 ERROR b2b47bc52460448cbe3457ef624bb72f name 'unique_id' is not defined
+2021-11-05 14:31:13,814 ERROR b2b47bc52460448cbe3457ef624bb72f name 'unique_id' is not defined
+2021-11-05 14:31:13,815 ERROR b2b47bc52460448cbe3457ef624bb72f name 'unique_id' is not defined
+2021-11-05 14:31:13,816 ERROR b2b47bc52460448cbe3457ef624bb72f name 'unique_id' is not defined
+2021-11-05 14:39:06,585 INFO 789c3342a23949698e77d966602f5a28 Data Started Processing for BMI
+2021-11-05 14:39:06,586 ERROR 789c3342a23949698e77d966602f5a28 name 'datetime' is not defined
+2021-11-05 14:39:06,587 ERROR 789c3342a23949698e77d966602f5a28 name 'datetime' is not defined
+2021-11-05 14:39:06,587 ERROR 789c3342a23949698e77d966602f5a28 name 'datetime' is not defined
+2021-11-05 14:39:06,587 ERROR 789c3342a23949698e77d966602f5a28 name 'datetime' is not defined
+2021-11-05 14:39:06,587 ERROR 789c3342a23949698e77d966602f5a28 name 'datetime' is not defined
+2021-11-05 14:39:06,587 ERROR 789c3342a23949698e77d966602f5a28 name 'datetime' is not defined
+2021-11-05 14:46:33,921 INFO 2fbad1ca41b34b66b83c06d7a59a7210 Data Started Processing for BMI
+2021-11-05 14:46:33,923 ERROR 2fbad1ca41b34b66b83c06d7a59a7210 module 'datetime' has no attribute 'now'
+2021-11-05 14:46:33,923 ERROR 2fbad1ca41b34b66b83c06d7a59a7210 module 'datetime' has no attribute 'now'
+2021-11-05 14:46:33,923 ERROR 2fbad1ca41b34b66b83c06d7a59a7210 module 'datetime' has no attribute 'now'
+2021-11-05 14:46:33,923 ERROR 2fbad1ca41b34b66b83c06d7a59a7210 module 'datetime' has no attribute 'now'
+2021-11-05 14:46:33,924 ERROR 2fbad1ca41b34b66b83c06d7a59a7210 module 'datetime' has no attribute 'now'
+2021-11-05 14:46:33,924 ERROR 2fbad1ca41b34b66b83c06d7a59a7210 module 'datetime' has no attribute 'now'
+2021-11-05 14:51:04,643 INFO 721962bf33614267894dd61fa1e07f0e Data Started Processing for BMI
+2021-11-05 14:51:04,645 ERROR 721962bf33614267894dd61fa1e07f0e name 'rand4Digit' is not defined
+2021-11-05 14:51:04,645 ERROR 721962bf33614267894dd61fa1e07f0e name 'rand4Digit' is not defined
+2021-11-05 14:51:04,645 ERROR 721962bf33614267894dd61fa1e07f0e name 'rand4Digit' is not defined
+2021-11-05 14:51:04,645 ERROR 721962bf33614267894dd61fa1e07f0e name 'rand4Digit' is not defined
+2021-11-05 14:51:04,645 ERROR 721962bf33614267894dd61fa1e07f0e name 'rand4Digit' is not defined
+2021-11-05 14:51:04,646 ERROR 721962bf33614267894dd61fa1e07f0e name 'rand4Digit' is not defined
+2021-11-05 15:02:15,566 INFO 45fbf210e0a740528a827911c661cf51 Data Started Processing for BMI
+2021-11-05 15:02:15,577 ERROR 45fbf210e0a740528a827911c661cf51 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:02:15,578 ERROR 45fbf210e0a740528a827911c661cf51 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:02:15,579 ERROR 45fbf210e0a740528a827911c661cf51 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:02:15,580 ERROR 45fbf210e0a740528a827911c661cf51 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:02:15,581 ERROR 45fbf210e0a740528a827911c661cf51 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:02:15,581 ERROR 45fbf210e0a740528a827911c661cf51 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:04:53,272 INFO 818d24a9897e4dae9677af6b58d8e0aa Data Started Processing for BMI
+2021-11-05 15:05:17,417 ERROR 818d24a9897e4dae9677af6b58d8e0aa [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:05:17,420 ERROR 818d24a9897e4dae9677af6b58d8e0aa [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:05:17,422 ERROR 818d24a9897e4dae9677af6b58d8e0aa [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:05:17,424 ERROR 818d24a9897e4dae9677af6b58d8e0aa [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:05:17,425 ERROR 818d24a9897e4dae9677af6b58d8e0aa [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:05:17,426 ERROR 818d24a9897e4dae9677af6b58d8e0aa [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:05:44,752 INFO 1ef30cc95d7d4495999ff0ae16c3d804 Data Started Processing for BMI
+2021-11-05 15:07:35,615 ERROR 1ef30cc95d7d4495999ff0ae16c3d804 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:07:35,619 ERROR 1ef30cc95d7d4495999ff0ae16c3d804 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:07:35,621 ERROR 1ef30cc95d7d4495999ff0ae16c3d804 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:07:35,623 ERROR 1ef30cc95d7d4495999ff0ae16c3d804 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:07:35,624 ERROR 1ef30cc95d7d4495999ff0ae16c3d804 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:07:35,626 ERROR 1ef30cc95d7d4495999ff0ae16c3d804 [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:14:34,432 INFO 2343489548fb46be8ed37092d5eceece Data Started Processing for BMI
+2021-11-05 15:15:12,682 ERROR 2343489548fb46be8ed37092d5eceece [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:15:12,684 ERROR 2343489548fb46be8ed37092d5eceece [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:15:12,686 ERROR 2343489548fb46be8ed37092d5eceece [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:15:12,687 ERROR 2343489548fb46be8ed37092d5eceece [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:15:12,687 ERROR 2343489548fb46be8ed37092d5eceece [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:15:12,688 ERROR 2343489548fb46be8ed37092d5eceece [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:21:34,908 INFO 3cbb871f57a64f1f8c468eea1d509c8f Data Started Processing for BMI
+2021-11-05 15:21:34,912 ERROR 3cbb871f57a64f1f8c468eea1d509c8f [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:21:34,912 ERROR 3cbb871f57a64f1f8c468eea1d509c8f [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:21:34,914 ERROR 3cbb871f57a64f1f8c468eea1d509c8f [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:21:34,915 ERROR 3cbb871f57a64f1f8c468eea1d509c8f [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:21:34,916 ERROR 3cbb871f57a64f1f8c468eea1d509c8f [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:21:34,917 ERROR 3cbb871f57a64f1f8c468eea1d509c8f [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:29:09,918 INFO 2460187dcd934c9bb4dcbf4946006dbc Data Started Processing for BMI
+2021-11-05 15:29:09,923 ERROR 2460187dcd934c9bb4dcbf4946006dbc [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:29:09,924 ERROR 2460187dcd934c9bb4dcbf4946006dbc [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:29:09,925 ERROR 2460187dcd934c9bb4dcbf4946006dbc [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:29:09,926 ERROR 2460187dcd934c9bb4dcbf4946006dbc [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:29:09,926 ERROR 2460187dcd934c9bb4dcbf4946006dbc [<class 'decimal.InvalidOperation'>]
+2021-11-05 15:29:09,928 ERROR 2460187dcd934c9bb4dcbf4946006dbc [<class 'decimal.InvalidOperation'>]
+2021-11-05 16:55:23,937 INFO 253d50dc1e064f8b8c8c92e76bb86488 Data Started Processing for BMI
+2021-11-05 17:05:59,033 INFO 3784ec5463894adf96dcd321138a083d Data Started Processing for BMI
+2021-11-05 17:19:12,752 INFO 0280681ebbe6413ea49bbbebc7b7eb78 Data Started Processing for BMI
+2021-11-05 18:02:24,186 INFO 376a7905de324a358d4525bd4dd440ab Data Started Processing for BMI
+2021-11-05 18:35:45,268 INFO d42d74c56c5249589cc85b17b0f5b9e2 Data Started Processing for BMI
+2021-11-06 14:39:59,475 INFO 0cea8a712eff4809928b0086b225e28d Data Started Processing for BMI
